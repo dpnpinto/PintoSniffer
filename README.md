@@ -1,3 +1,14 @@
 # PintoSniffer
-## In this project I will create a complete system to evaluate the comunication in a LAN and send a  mensage to the admin if something suspiciouse is found.
-This is some test that I made in evaluating frames with a LLM and geting information in real time. I will use the "smaller computar" that I can get and share the results.
+
+## This project aims to create a comprehensive system for evaluating LAN communication and alerting the administrator to any suspicious activity.
+
+The following are some preliminary tests I've conducted, involving frame evaluation with a large language model (LLM) and real-time data acquisition. I will use the smallest available computer for this project and share the results.
+
+At the moment using:
+- Linux (Arch/Alpine)
+- BASH
+- SMTP
+- PGP
+- Wireshark
+- Ollama
+- DeepSeek 1.8B
