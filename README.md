@@ -11,4 +11,4 @@ At the moment using:
 - PGP
 - Wireshark
 - Ollama
-- DeepSeek 1.8B
+- DeepSeek-r1 1.8B
