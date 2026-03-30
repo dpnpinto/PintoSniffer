@@ -71,8 +71,8 @@ int main() {
     }
     bias2[0] = ((double)rand()/RAND_MAX);
 
-    // Train for 10,000 epochs
-    for (int epoch = 0; epoch < 10000; epoch++) {
+    // Train for 10,000 times_train
+    for (int times_train = 0; times_train < 10000; times_train++) {
         for (int i = 0; i < 4; i++) train(train_inputs[i], train_outputs[i]);
     }
 
